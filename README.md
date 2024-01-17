@@ -1,4 +1,4 @@
-# Project Chain 🚀
+# Project Chain ⛓️
 
 Welcome to Project Chain, a modular blockchain implementation in Golang!
 
